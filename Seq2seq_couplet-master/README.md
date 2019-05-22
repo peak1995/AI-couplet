@@ -50,7 +50,7 @@ step: 20000/20000...  loss: 1.2709236145019531...  0.0421 sec/batch
 
 # Models
 
-我的数据+模型：链接：https://pan.baidu.com/s/126sUTtz0wWKlWx8iohugmw 密码：rue9
+数据+模型：链接：https://pan.baidu.com/s/126sUTtz0wWKlWx8iohugmw 密码：rue9
 
 项目参考：ref:https://github.com/wb14123/seq2seq-couplet
 
